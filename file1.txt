@@ -1,2 +1,3 @@
 start rebase branch 1
 A1
+new line added
